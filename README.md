@@ -1,4 +1,4 @@
-# Amethyst Items Minecraft Mod
+# Amethyst Items - Minecraft Mod
 New Items from Amethyst
 ## Amethyst Armor
 This modification adds an amethyst armor</br>
