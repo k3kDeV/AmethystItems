@@ -10,3 +10,4 @@ This modification adds amethyst tools (sword shovel axe pickaxe hoe)</br>
 ## Soon
 - New Languages
 - More Items
+- Magic Wands
