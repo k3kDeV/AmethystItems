@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "ameitems:blank_wand"
+  },
+  "addition": {
+    "item": "minecraft:packed_ice"
+  },
+  "result": {
+    "item": "ameitems:frozen_wand"
+  }
+}

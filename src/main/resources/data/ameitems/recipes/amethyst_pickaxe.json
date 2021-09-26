@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "ameitems:amethyst_pickaxe",
+    "count": 1
+  }
+}
+

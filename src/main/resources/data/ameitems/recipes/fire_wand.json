@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "ameitems:blank_wand"
+  },
+  "addition": {
+    "item": "minecraft:fire_charge"
+  },
+  "result": {
+    "item": "ameitems:fire_wand"
+  }
+}
+

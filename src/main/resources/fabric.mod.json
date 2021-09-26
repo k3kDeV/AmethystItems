@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "ameitems",
+  "version": "${version}",
+  "name": "AmethystItems",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/ameitems/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "io.github.k3kdev.amethystitems.client.AmethystItemsClient"
+    ],
+    "main": [
+      "io.github.k3kdev.amethystitems.AmethystItems"
+    ]
+  },
+  "mixins": [
+    "AmethystItems.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.6",
+    "fabric": "*",
+    "minecraft": "1.17.1"
+  }
+}

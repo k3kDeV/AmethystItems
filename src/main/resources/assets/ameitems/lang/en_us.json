@@ -1,0 +1,18 @@
+{
+  "item.ameitems.amethyst_sword": "Amethyst Sword",
+  "item.ameitems.amethyst_shovel": "Amethyst Shovel",
+  "item.ameitems.amethyst_axe": "Amethyst Axe",
+  "item.ameitems.amethyst_pickaxe": "Amethyst Pickaxe",
+  "item.ameitems.amethyst_hoe": "Amethyst Hoe",
+  "item.ameitems.amethyst_helmet": "Amethyst Helmet",
+  "item.ameitems.amethyst_chestplate": "Amethyst Chestplate",
+  "item.ameitems.amethyst_leggings": "Amethyst Leggings",
+  "item.ameitems.amethyst_boots": "Amethyst Boots",
+  "item.ameitems.blank_wand": "Blank Wand",
+  "item.ameitems.fire_wand": "Fire Wand",
+  "item.ameitems.frozen_wand": "Frozen Wand",
+  "item.ameitems.water_wand": "Water Wand",
+  "item.ameitems.air_wand": "Air Wand",
+  "item.ameitems.earth_wand": "Earth Wand",
+  "itemGroup.ameitems.magic_wands": "Magic Wands"
+}

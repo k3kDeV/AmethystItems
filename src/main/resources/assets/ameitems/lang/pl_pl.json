@@ -1,0 +1,18 @@
+{
+  "item.ameitems.amethyst_sword": "Ametystowy Miecz",
+  "item.ameitems.amethyst_shovel": "Ametystowy Szpadel",
+  "item.ameitems.amethyst_axe": "Ametystowa Siekiera",
+  "item.ameitems.amethyst_pickaxe": "Ametystowy Kifol",
+  "item.ameitems.amethyst_hoe": "Ametystowa Kurwa",
+  "item.ameitems.amethyst_helmet": "Ametystowa Czapka",
+  "item.ameitems.amethyst_chestplate": "Ametystowa Klata",
+  "item.ameitems.amethyst_leggings": "Ametystowa Spodnie",
+  "item.ameitems.amethyst_boots": "Ametystowa Buty",
+  "item.ameitems.blank_wand": "Blank Wand",
+  "item.ameitems.fire_wand": "Fire Wand",
+  "item.ameitems.frozen_wand": "Frozen Wand",
+  "item.ameitems.water_wand": "Water Wand",
+  "item.ameitems.air_wand": "Air Wand",
+  "item.ameitems.earth_wand": "Earth Wand",
+  "itemGroup.ameitems.magic_wands": "Magic Wands"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " AA",
+    " SA",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "ameitems:amethyst_axe",
+    "count": 1
+  }
+}
+
