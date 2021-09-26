@@ -16,10 +16,10 @@ This modification adds amethyst tools and magic wands</br>
 </br>
 ###Blank Wand <img height="32" src="./src/main/resources/assets/ameitems/textures/item/blank_wand.png" width="32"/>
 ###Fire Wand  <img height="32" src="./src/main/resources/assets/ameitems/textures/item/fire_wand.png" width="32"/></br>
-###Water Wand<img height="32" src="./src/main/resources/assets/ameitems/textures/item/water_wand.png" width="32"/></br>
-###Air Wand<img height="32" src="./src/main/resources/assets/ameitems/textures/item/air_wand.png" width="32"/></br>
-###Earth Wand<img height="32" src="./src/main/resources/assets/ameitems/textures/item/earth_wand.png" width="32"/></br>
-###Frozen Wand<img height="32" src="./src/main/resources/assets/ameitems/textures/item/frozen_wand.png" width="32"/></br>
+###Water Wand <img height="32" src="./src/main/resources/assets/ameitems/textures/item/water_wand.png" width="32"/></br>
+###Air Wand <img height="32" src="./src/main/resources/assets/ameitems/textures/item/air_wand.png" width="32"/></br>
+###Earth Wand <img height="32" src="./src/main/resources/assets/ameitems/textures/item/earth_wand.png" width="32"/></br>
+###Frozen Wand <img height="32" src="./src/main/resources/assets/ameitems/textures/item/frozen_wand.png" width="32"/></br>
 
 ## Soon
 - New Languages
