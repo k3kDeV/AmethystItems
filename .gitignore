@@ -5,8 +5,6 @@
 *.ipr
 *.iws
 
-.img/
-
 # IntelliJ
 out/
 # mpeltonen/sbt-idea plugin
@@ -121,3 +119,4 @@ run/
 /gradlew
 /gradlew.bat
 /build.gradle
+!/.img/
