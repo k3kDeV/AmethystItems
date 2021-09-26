@@ -4,7 +4,7 @@
   "version": "${version}",
   "name": "AmethystItems",
   "description": "",
-  "authors": [],
+  "authors": ["k3kdev"],
   "contact": {},
   "license": "MIT",
   "icon": "assets/ameitems/icon.png",
