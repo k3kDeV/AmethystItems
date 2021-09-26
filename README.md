@@ -2,7 +2,7 @@
 New Items from Amethyst
 ## Amethyst Armor
 This modification adds an amethyst armor</br>
-![Helmet](./src/main/resources/assets/ameitems/textures/item/amethyst_helmet.png)
+<img height="100" src="./src/main/resources/assets/ameitems/textures/item/amethyst_helmet.png" width="100"/>
 ![Chestplate](./src/main/resources/assets/ameitems/textures/item/amethyst_chestplate.png)
 ![Leggings](./src/main/resources/assets/ameitems/textures/item/amethyst_leggings.png)
 ![Boots](./src/main/resources/assets/ameitems/textures/item/amethyst_boots.png)
