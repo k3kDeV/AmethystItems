@@ -3,9 +3,9 @@ New Items from Amethyst
 ## Amethyst Armor
 This modification adds an amethyst armor</br>
 <img height="50" src="./src/main/resources/assets/ameitems/textures/item/amethyst_helmet.png" width="50"/>
-![Chestplate](./src/main/resources/assets/ameitems/textures/item/amethyst_chestplate.png)
-![Leggings](./src/main/resources/assets/ameitems/textures/item/amethyst_leggings.png)
-![Boots](./src/main/resources/assets/ameitems/textures/item/amethyst_boots.png)
+![Chestplate](./src/main/resources/assets/ameitems/textures/item/amethyst_chestplate.png)<img height="50" src="./src/main/resources/assets/ameitems/textures/item/amethyst_chestplate.png" width="50"/>
+![Leggings](./src/main/resources/assets/ameitems/textures/item/amethyst_leggings.png)<img height="50" src="./src/main/resources/assets/ameitems/textures/item/amethyst_leggings.png" width="50"/>
+![Boots](./src/main/resources/assets/ameitems/textures/item/amethyst_boots.png)<img height="50" src="./src/main/resources/assets/ameitems/textures/item/amethyst_boots.png" width="50"/>
 ## Amethyst Tools
 This modification adds amethyst tools and magic wands</br>
 ![Sword](./src/main/resources/assets/ameitems/textures/item/amethyst_sword.png)
