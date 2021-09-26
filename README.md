@@ -14,7 +14,7 @@ This modification adds amethyst tools and magic wands</br>
 <img height="32" src="./src/main/resources/assets/ameitems/textures/item/amethyst_pickaxe.png" width="32"/>
 <img height="32" src="./src/main/resources/assets/ameitems/textures/item/amethyst_boots.png" width="32"/>
 </br>
-![](./src/main/resources/assets/ameitems/textures/item/blank_wand.png =100px)
+![](./src/main/resources/assets/ameitems/textures/item/blank_wand.png =100)
 <img height="32" src="./src/main/resources/assets/ameitems/textures/item/blank_wand.png" width="32"/>
 <img height="32" src="./src/main/resources/assets/ameitems/textures/item/fire_wand.png" width="32"/>
 <img height="32" src="./src/main/resources/assets/ameitems/textures/item/water_wand.png" width="32"/>
